@@ -1,0 +1,21 @@
+/*************************
+*  Mailchimp Form Fields *
+*************************/
+
+
+#mc_embed_signup {
+}
+.a-reset {
+  font-weight: 400 !important;
+  font-size: 1em !important;
+  color: green !important;
+  text-decoration: dotted !important;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  border: none !important;
+  padding: 0 !important;
+}
+.text-gray {
+  color: gray !important;
+}
